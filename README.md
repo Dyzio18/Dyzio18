@@ -1,8 +1,3 @@
 # Hello world 👋
 
-My name is Patrick, I'm from Poland. I working as a frontend developer mostly in JavaScript, React, Node.js.
-Currently I working on [selfcodehero.com](http://selfcodehero.com/) - gamification engine and [eqchange.pl](https://eqchange.pl) - app to swap thinks in hyperlocal comunities. Still working on that but stay soon. Visit my [website](https://dyzio.me) for a more information.
-
-🍀🍀🍀
-
-I greet you, good luck!
+Hey there, developers! My name is Patrick, and I'm a frontend developer based in Poland or working remotly. With my expertise in JavaScript/TypeScript, React, and Node.js, I specialize in building responsive and engaging front-end interfaces. I'm currently working on two exciting projects: selfcodehero.com, a gamification engine, and eqchange.pl, a hyperlocal swapping app. So, please check out my repositories to see some of my projects in action, and visit my website, dyzio.me, for more information. Thanks for stopping by, and happy coding! 🚀👨‍💻

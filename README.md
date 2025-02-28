@@ -1,13 +1,10 @@
 # Hello world 👋
 
-Hey devs! I'm Patrick, a frontend developer from Poland. Specializing in JavaScript/TypeScript, React, and Node.js. Craft apps. Currently, I'm coding selfcodehero.com & eqchange.io. Explore my repos for more! 
+Hey devs! I'm Patryk, a frontend developer from Poland, specializing in JavaScript/TypeScript, React, and Node.js. I build apps with a focus on simplicity and scalability.
 
-Visit my [blog dyzio.me](https://dyzio.me) 🍀 
+Currently working on [eqchange.io](https://eqchange.io) – a hyperlocal platform for exchanging goods and services. Give away or trade what you don’t need for free! 🚀 {BETA soon}
 
-Be aware of [eqchange.io](https://eqchange.io) is hyperlocal 'eqchange' platform. 
-Give away or trade what you don't need for free! #barter #local #community 
-The best app to swap things locally {BETA soon}.
-
+Check out my projects & blog: [blog dyzio.me](https://dyzio.me) 🍀 
 
 
 
